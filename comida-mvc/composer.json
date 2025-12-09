@@ -1,0 +1,15 @@
+{
+    "name": "digitalocean-apps/login-mvc",
+    "description": "Sample PHP application for App Platform",
+    "type": "project",
+    "require": {
+        "php": "^8.4",
+        "alrik11es/cowsayphp": "^1.2"
+    },
+    "authors": [
+        {
+            "name": "Nabearhi",
+            "email": "dgali9115@gmail.com"
+        }
+    ]
+}
